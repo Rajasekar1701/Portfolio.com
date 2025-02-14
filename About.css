@@ -1,0 +1,138 @@
+.b{
+    background-color: greenyellow;
+    padding: 1px;
+    margin: -9px;
+}
+
+.c{
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+
+ul,li{
+    display: inline-block;
+}
+
+.d{
+    margin-left: 76%;
+    margin-top: -75px;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+ul :hover{
+    background-color: greenyellow;
+}
+ 
+li :hover{
+    color: black;
+}
+
+body{
+    background-color:#111349;
+}
+
+a{
+    color: black;
+}
+
+h2{
+    color: greenyellow;
+    font-size: 30px;
+}
+
+.g{
+    margin-left: 20px;
+}
+
+.e{
+    font-size: 40px;
+    margin-left: 72%;
+    margin-top: -37%;
+}
+
+.h{
+    margin-left: 130px;
+}
+
+.f{
+    color: white;
+    margin-left: 60%;
+}
+
+.year{
+    color: orange;
+    margin-left: 60%;
+}
+
+.scl{
+    color: white;
+    margin-left: 60%;
+}
+
+.percentage{
+    color: white;
+    margin-left: 60%;
+}
+
+.container{
+    margin-left: 60%;
+    margin-top: -11.7%;
+}
+
+.clg{
+    color: white;
+    margin-left: 60%;
+}
+
+.container1{
+    margin-left: 130px;
+    margin-top: 60px;
+}
+
+.certify{
+    font-size: 30px;
+    margin-left: 9%;
+    margin-top: 50px;
+}
+
+.yes{
+    color: white;
+    margin-top: px;
+    margin-left: 9%;
+}
+
+.me{
+    margin-left: 9%;
+    margin-top: 50px;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+    margin-left: 9%;
+    margin-top: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+  

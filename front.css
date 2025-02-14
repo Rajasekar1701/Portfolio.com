@@ -1,0 +1,48 @@
+body{
+    background-color: #111349;
+}
+
+.b{
+    color: white;
+    font-size: 100px;
+    margin-left: 150px;
+    margin-top: -150px;
+}
+
+.a{
+    color: greenyellow;
+    margin-top: px;
+    margin-left: 170px;
+}
+
+.c{
+    color: white;
+    margin-left: 170px;
+    margin-top: -110px;
+    font-size: 20px;
+}
+
+hr{
+    color: white;
+    width: 1250px;
+}
+
+p{
+   margin-top: 50px;
+   border: 2px solid white;
+   padding: 10px;
+   width: 50px;
+   padding-left: 20px;
+   border-radius: 10px;
+   margin-left: 88%;
+}
+
+.Home :hover{
+    color: black;
+    background-color: greenyellow;
+}
+
+a{
+    text-decoration: none;
+    color: greenyellow;
+}

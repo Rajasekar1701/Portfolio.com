@@ -1,0 +1,103 @@
+ul,li{
+    display: inline-block;
+}
+
+.c{
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 390px;
+    margin-left: 36%;
+    margin-top: 30px;
+}
+
+body{
+    background-color: #111349;
+}
+
+li{
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+ul :hover{
+   background-color: greenyellow;
+}
+
+.d{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 400px;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 70px;
+    background-color: greenyellow;
+    font-size: 20;
+}
+
+.e{
+    margin-left: 130px;
+    color: greenyellow;
+    font-size: 25px;
+}
+
+img{
+    border-color: greenyellow;
+    border-width: 2px;
+    border-style: solid;
+    height: 290px;
+    width: 275px;
+    margin-left: 65%;
+    margin-top: -210Px;
+    border-radius: 25PX;
+}
+
+.g{
+    color: white;
+    width: 700px;
+    font-size: 20px;
+    margin-top: -170px;
+    margin-left: 130px;
+}
+
+    
+a{
+  color: greenyellow;
+  text-decoration: none;
+}
+
+li :hover{
+    color: black;
+}
+
+.h{
+    background-color: greenyellow;
+    padding: 5px;
+    margin-top: 60px;
+    margin-left: -8px;
+    margin-right: -9px;
+}
+
+.k{
+    display: inline-block;
+    padding-left: 6%;
+}
+
+.j{
+    color: greenyellow;
+}
+
+.container{
+    margin-top: -10px;
+}
+
+.icon{
+    margin-left: -80px;
+}
